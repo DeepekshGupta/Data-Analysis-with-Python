@@ -1,8 +1,0 @@
-.dot method:
-	used to get the dot product
-	eg: kanto = np.array([73, 67, 43])
-		weights = np.array([w1, w2, w3])
-		np.dot(kanto, weights)
-	
-	another way of doing this is:
-		(kanto * weights).sum()
